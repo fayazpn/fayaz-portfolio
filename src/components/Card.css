@@ -1,0 +1,21 @@
+.card-item {
+  padding: 2rem;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px rgba(0,0,0,0.1), 0 6px 6px rgba(0,0,0,0.23);
+  margin: 5% 0;
+  
+}
+
+.card-description {
+  text-align: center;
+}
+
+
+@media screen and (min-width: 1264px) {
+  .card-item {
+    max-width: 430px;
+    min-height: 330px;
+    margin: 2%;
+  }
+}
