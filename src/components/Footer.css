@@ -40,9 +40,10 @@
 @media  screen and (min-width: 1264px) {
   .footer-container{
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     max-width: 1300px;
     width: 100%;
+    padding: 1em;
   }
 }
