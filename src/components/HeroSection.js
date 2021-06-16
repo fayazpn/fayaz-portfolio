@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className='hero-left'>
           <h1>Fayaz Basheer</h1>
           <p>
-            I'm a Frontend Developer based on Dubai, United Arab Emirates. I
+            I'm a Frontend Developer based in Sharjah, United Arab Emirates. I
             have done Multiple projects on both Frontend and Backend systems &
             I'm looking for oppertunities.
           </p>

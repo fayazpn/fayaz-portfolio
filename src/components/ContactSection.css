@@ -9,7 +9,7 @@ ul.contact-list{
 }
 
 ul.contact-list>li{
-  font-size: 1.5em;
+  font-size: 1.2em;
   margin: 1em 0;
   color: rgb(18,8,69);
   
@@ -91,5 +91,8 @@ ul.contact-list>li{
 	.contact-container {
 		align-items: flex-start;
 		margin: 2%;
+	}
+	ul.contact-list>li{
+		font-size: 1.5em;
 	}
 }

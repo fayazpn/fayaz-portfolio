@@ -21,7 +21,7 @@ const ServiceSection = () => {
           src='/images/undraw-redesign.svg'
           alt='Redesign Webpages'
           heading='Re-design Websites'
-          desc='Redesign your current/outdated website with modern designs & practices'
+          desc='Redesign your current/outdated website with modern design methodology & practices.'
         />
       </div>
     </section>
