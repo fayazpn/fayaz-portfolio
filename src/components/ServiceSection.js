@@ -15,7 +15,7 @@ const ServiceSection = () => {
           src='/images/undraw-frontend.svg'
           alt='Frontend Developer'
           heading='Frontend-Developer'
-          desc='Aspiring Fullstack developer currently focusing on frontend development.'
+          desc='Aspiring Fullstack developer currently focusing on front-end development.'
         />
         <Card
           src='/images/undraw-redesign.svg'

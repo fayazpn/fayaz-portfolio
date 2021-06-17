@@ -10,7 +10,7 @@ const HeroSection = () => {
           <p>
             I'm a Frontend Developer based in Sharjah, United Arab Emirates. I
             have done Multiple projects on both Frontend and Backend systems &
-            I'm looking for oppertunities.
+            I'm looking for opportunities.
           </p>
 
           <Button

@@ -36,6 +36,9 @@
 .footer-socials>li>a>i {
   font-size: 1.5rem;
 }
+.footer-name{
+  text-align: center;
+}
 
 @media  screen and (min-width: 1264px) {
   .footer-container{
@@ -46,4 +49,6 @@
     width: 100%;
     padding: 1em;
   }
+
+
 }
