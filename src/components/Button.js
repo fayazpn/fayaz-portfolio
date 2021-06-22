@@ -1,5 +1,5 @@
 import './Button.css'
-import { Link } from 'react-router-dom'
+
 
 const STYLES = ['btn--primary', 'btn--outline']
 
@@ -22,7 +22,7 @@ export const Button = ({ children, buttonStyle, buttonSize }) => {
   }
 
   return (
-    <Link className='btn-mobile'>
+    <div className='btn-mobile'>
       <button
         onClick={onClick}
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
@@ -30,6 +30,6 @@ export const Button = ({ children, buttonStyle, buttonSize }) => {
       >
         {children}
       </button>
-    </Link>
+    </div>
   )
 }

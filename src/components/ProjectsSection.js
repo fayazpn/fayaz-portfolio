@@ -35,6 +35,15 @@ const ProjectsSection = () => {
         />
 
         <ProjectsCard
+          src='/images/projects/vaasara.png'
+          alt='Vaasara website'
+          title='Vaasara Website'
+          desc='Client website for app Vaasara, website done using modern design practices and layouts'
+          label={{ stack: 'Frontend', fw: 'HTML/CSS/JS' }}
+          link='https://vaasara.com/'
+        />
+
+        <ProjectsCard
           src='/images/projects/frontendmentor.png'
           alt='Frontend Mentor'
           title='Frontend Challenges'
