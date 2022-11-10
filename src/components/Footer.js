@@ -9,7 +9,7 @@ const Footer = () => {
         </div>
 
         <div className='footer-name'>
-          <h3>Fayaz Basheer | Portfolio 2021</h3>
+          <h3>Fayaz Basheer | Portfolio 2022</h3>
         </div>
 
         <ul className='social-links-wrapper footer-socials'>
@@ -35,7 +35,6 @@ const Footer = () => {
             </a>
           </li>
         </ul>
-        <div></div>
       </div>
     </div>
   )

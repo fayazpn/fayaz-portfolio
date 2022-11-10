@@ -23,13 +23,18 @@ export const Button = ({ children, buttonStyle, buttonSize }) => {
 
   return (
     <div className='btn-mobile'>
-      <button
-        onClick={onClick}
-        className={`btn ${checkButtonStyle} ${checkButtonSize}`}
+      <a
+        href='/file/Fayaz PN - Resume 2022.pdf'
+        download="Fayaz's Resume"
         target='_blank'
       >
-        {children}
-      </button>
+        <button
+          className={`btn ${checkButtonStyle} ${checkButtonSize}`}
+          target='_blank'
+        >
+          {children}
+        </button>
+      </a>
     </div>
   )
 }
